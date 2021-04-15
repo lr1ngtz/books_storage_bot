@@ -1,0 +1,5 @@
+# Byte-compiled / optimized / DLL files
+venv_books_storage_bot/
+
+# must be always hidden
+token.txt
