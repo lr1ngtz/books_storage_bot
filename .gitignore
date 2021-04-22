@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 venv_books_storage_bot/
+__pycache__/
 
 # must be always hidden
 token.txt
